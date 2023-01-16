@@ -2,4 +2,3 @@
 ||dangdang.com^$important
 ||360.com^$important
 ||360.cn^$important
-||google.com.hk^$important

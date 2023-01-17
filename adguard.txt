@@ -2,3 +2,5 @@
 ||dangdang.com^$important
 ||360.com^$important
 ||360.cn^$important
+||360so.com^^
+||360so.cn^

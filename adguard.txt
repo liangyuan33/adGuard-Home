@@ -1,6 +1,6 @@
 /2345/
-||dangdang.com^$important
-||360.com^$important
-||360.cn^$important
+||dangdang.com^
+||360.com^
+||360.cn^
 ||360so.com^^
 ||360so.cn^

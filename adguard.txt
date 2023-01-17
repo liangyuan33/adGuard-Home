@@ -1,4 +1,3 @@
 /2345/
 ||dangdang.com^$important
-||360.com^$important
-||360.cn^$important
+(.+.|^)(360|so).(cn|com)

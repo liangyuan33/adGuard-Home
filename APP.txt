@@ -1,0 +1,15 @@
+#动漫之家
+/adaptive/
+/adsdk/
+/360buyimg/
+/jd.com/
+/yximgs/
+/huazirc/
+||adxlog-adnet.vivo.com.cn^$important
+||images.dmzj.com^$important
+||v.adx.hubcloud.com.cn.lan^$important
+||tx-rwk.pull.etoote.com^$important
+||bd-rwk.pull.etoote.com^$important
+||nnapi.idmzj.com^$important
+||g-api.kwai.com^$important
+||open.kuaishouzt.com^$important

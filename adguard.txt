@@ -1,9 +1,8 @@
 /2345/
+/360so/
 ||dangdang.com^
 ||360.com^
 ||360.cn^
-||360so.com^^
-||360so.cn^
 ||58.com^$important
 ||www.eazsolution.com
 ||www.eazsolutions.com

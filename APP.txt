@@ -1,2 +1,3 @@
 #OPPO
 ||api-cn.cdo.heytapmobi.com^
+||api-cn.store.heytapmobi.com^
